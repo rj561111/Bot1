@@ -113,4 +113,4 @@ intents.members = True
 
 client = MyClient(intents=intents)
 
-client.run("MTQzNDYzNTgzNzA5NzY0NDA0Mg.Gk_HV9.Uq2Uf324UaBm0lBuwAyXj5ZCIQd1ARMOpXtVsM")
+client.run("")
